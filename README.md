@@ -23,7 +23,7 @@ Cyber Bot world wide databse connected bot
 - Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best WhatsApp Library Out There) 
 
 ## 💻 Deploy/Hosting Guide
-- Section Moved to [Void-Guides](https://github.com/)
+- Section Moved to [Void-Guides](https://github.com/Aqua-Snake/cyber-db-bot/wiki/CYBER-BOT-Hosting-Deploy-Guides)
 ## 🍥 Features of the Repo
 - To view all features, click here➡️[Void_featuresList.md](https://github.com/Aqua-Snake/cyber-db-bot/blob/main/Features.md)
 
