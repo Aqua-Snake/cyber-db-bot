@@ -1,0 +1,55 @@
+{
+    "name": "cyber bot",
+    "description": "Advanced  WhatsApp Bot",
+    "keywords": [
+      "bot",
+      "whatsapp",
+      "stickers",
+      "whatsapp-stickers",
+      "anime",
+      "whatsapp-bot",
+      "whatsapp-sticker-bot",
+      "cyber bot"
+    ],
+    "website": "https://github.com/Aqua-Snake/CyberBot#readme",
+    "repository": "https://github.com/Aqua-Snake/CyberBot.git",
+    "logo": "https://i.ibb.co/h26VWqL/CyberBot.jpg",
+    "success_url": "/",
+    "env": {
+      "NAME": {
+        "description": "Name of your bot"
+      },
+      "PREFIX": {
+        "description": "Prefix of your bot"
+      },
+      "SESSION": {
+        "description": "A string for the session to be classified and to get access to the server endpoints"
+      },
+      "MODS": {
+        "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+        "required": false
+      },
+      "CRON": {
+        "description": "Cron string to clear chats in a cycle",
+        "required": false
+      },
+      "MONGO_URI": {
+        "description": "A secret String for Mongodb Connection.(Required)"
+      }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+      },
+  
+      {
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      },
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      }
+    ]
+  }
