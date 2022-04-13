@@ -2,7 +2,7 @@
 Cyber Bot world wide databse connected bot
 
 <div align="center">
-<a href="https://ibb.co/P1x0j2S"><img src="https://i.ibb.co/fHK7JSb/CyberBot.png" alt="Cyber Bot" border="0"></a>
+<a href="https://i.ibb.co/fHK7JSb/CyberBot.png"><img src="https://i.ibb.co/fHK7JSb/CyberBot.png" alt="Cyber Bot" border="0"></a>
 
 # **Cyber Bot world wide databse connected bot**
 [![CodeFactor](https://www.codefactor.io/repository/github/Aqua-Snake/cyber-db-bot/badge)](https://www.codefactor.io/repository/github/Aqua-Snake/cyber-db-bot)
