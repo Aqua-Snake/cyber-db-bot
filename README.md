@@ -22,7 +22,7 @@
 - Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best WhatsApp Library Out There) 
 
 ## 💻 Deploy/Hosting Guide
-- Section Moved to [Void-Guides](https://github.com/Aqua-Snake/cyber-db-bot/wiki/CYBER-BOT-Hosting-Deploy-Guides)
+- Section Moved to [Help-Guides](https://github.com/Aqua-Snake/cyber-db-bot/wiki/CYBER-BOT-Hosting-Deploy-Guides)
 ## 🍥 Features of the Repo
 - To view all features, click here➡️[featuresList](https://github.com/Aqua-Snake/cyber-db-bot/blob/main/Features.md)
 
